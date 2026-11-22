@@ -8,26 +8,6 @@
   },
   "sponsorAds": [
     {
-      "id": "ad_sample_1795373463840_1",
-      "adType": "direct",
-      "title": "Submit a Real-Life Family Story or Chronicle",
-      "sponsorName": "Story Spirit Editorial Desk",
-      "description": "Share a defining turning point, heirloom memory, or regional chronicle with our editorial team.",
-      "ctaText": "Send Story Tip",
-      "targetUrl": "/?page=contact-us",
-      "imageUrl": "/src/assets/images/story_coastal_letters_1795366882217.jpg",
-      "adskeeperSiteId": "",
-      "adskeeperWidgetId": "",
-      "adskeeperScriptUrl": "",
-      "placement": "in_feed_banner",
-      "pageTarget": "feed_only",
-      "status": "active",
-      "priority": 50,
-      "createdBy": "b2uJlYs0zTNxtun6u9q9UeqigQy1",
-      "createdAtMs": 1795373463841,
-      "updatedAtMs": 1795373463841
-    },
-    {
       "id": "ad_sample_1795373463840_0",
       "adType": "direct",
       "title": "Story Spirit Editions — Winter Hardcover Anthology",

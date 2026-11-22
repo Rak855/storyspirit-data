@@ -8,6 +8,26 @@
   },
   "sponsorAds": [
     {
+      "id": "ad_1795374784013_w9lln",
+      "adType": "adskeeper",
+      "title": "AdsKeeper Native Widget #2130082",
+      "sponsorName": "AdsKeeper",
+      "description": "Native content recommendations served by adskeeper.com.",
+      "ctaText": "Learn More",
+      "targetUrl": "",
+      "imageUrl": "",
+      "adskeeperSiteId": "1121571",
+      "adskeeperWidgetId": "2130082",
+      "adskeeperScriptUrl": "https://jsc.adskeeper.com/site/1121571.js",
+      "placement": "sidebar_bottom",
+      "pageTarget": "all",
+      "status": "active",
+      "priority": 50,
+      "createdBy": "MkXvH8MA54a0HVmNMIPehQdHqj33",
+      "createdAtMs": 1795374784013,
+      "updatedAtMs": 1795374784013
+    },
+    {
       "id": "ad_1795374693937_7fx64",
       "adType": "adskeeper",
       "title": "AdsKeeper Native Widget #2130073",

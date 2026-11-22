@@ -1,0 +1,60 @@
+{
+  "siteContent": {
+    "adsEnabled": true,
+    "globalAdsKeeperSiteId": "",
+    "tagline": "Real Stories About Real Lives",
+    "announcementText": "",
+    "updatedAtMs": 1795369231792
+  },
+  "sponsorAds": [],
+  "adPlacements": [
+    {
+      "id": "header_leaderboard",
+      "label": "Header Leaderboard",
+      "dimensionsHint": "Full-width above content (970x90)",
+      "description": "Appears directly beneath the dark navigation bar across home and category feeds."
+    },
+    {
+      "id": "sidebar_top",
+      "label": "Sidebar Top Widget",
+      "dimensionsHint": "320px right column (top)",
+      "description": "Primary sponsor card or native widget pinned at the top of the right editorial sidebar."
+    },
+    {
+      "id": "sidebar_bottom",
+      "label": "Sidebar Bottom Widget",
+      "dimensionsHint": "320px right column (bottom)",
+      "description": "Secondary right-sidebar placement below Categories."
+    },
+    {
+      "id": "in_feed_banner",
+      "label": "In-Feed Editorial Banner",
+      "dimensionsHint": "2-column grid span",
+      "description": "Displays between story cards inside the Home and Category article grids."
+    },
+    {
+      "id": "story_inline",
+      "label": "Article Inline Callout",
+      "dimensionsHint": "Mid-article reading column (~25%)",
+      "description": "First in-article slot (~25% through stories with 10+ blocks), placed strictly between paragraphs."
+    },
+    {
+      "id": "story_inline_2",
+      "label": "Article Inline Callout 2",
+      "dimensionsHint": "Mid-article reading column (~60%)",
+      "description": "Second in-article slot (~60% through stories with 20+ blocks)."
+    },
+    {
+      "id": "story_below",
+      "label": "Below Article Recommendations",
+      "dimensionsHint": "Full-width grid under story",
+      "description": "High-visibility zone directly beneath full articles."
+    },
+    {
+      "id": "footer_banner",
+      "label": "Pre-Footer Banner",
+      "dimensionsHint": "Full-width banner above footer",
+      "description": "Wide placement spanning the bottom of the page just above the dark site footer."
+    }
+  ]
+}

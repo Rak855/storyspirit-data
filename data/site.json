@@ -6,28 +6,7 @@
     "announcementText": "",
     "updatedAtMs": 1795369231792
   },
-  "sponsorAds": [
-    {
-      "id": "ad_sample_1795373463840_0",
-      "adType": "direct",
-      "title": "Story Spirit Editions — Winter Hardcover Anthology",
-      "sponsorName": "Story Spirit Editions",
-      "description": "Curated clothbound collections of family letters, historical chronicles, and seasonal essays.",
-      "ctaText": "Browse Books",
-      "targetUrl": "#about-us",
-      "imageUrl": "/src/assets/images/sponsor_heritage_books_1795366881725.jpg",
-      "adskeeperSiteId": "",
-      "adskeeperWidgetId": "",
-      "adskeeperScriptUrl": "",
-      "placement": "sidebar_top",
-      "pageTarget": "all",
-      "status": "active",
-      "priority": 60,
-      "createdBy": "b2uJlYs0zTNxtun6u9q9UeqigQy1",
-      "createdAtMs": 1795373463840,
-      "updatedAtMs": 1795373463840
-    }
-  ],
+  "sponsorAds": [],
   "adPlacements": [
     {
       "id": "header_leaderboard",
